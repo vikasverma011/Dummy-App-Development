@@ -1,5 +1,6 @@
 <div class="title">
 <h2>{{ section.settings.title }}</h2>
+<div class="description">{{ section.settings.description }}</div>
 </div>
 
 
@@ -12,6 +13,12 @@
       "id": "title",
       "label": "Heading",
       "default": "Quick links"
+    },
+    {
+        "type": "inline_richtext",
+        "id": "description",
+        "default": "my <i>inline</i> <b>text</b>",
+        "label": "Inline rich text"
     }
   ],
   "presets": [
