@@ -104,11 +104,19 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "test_demo_LCayyR": {
+      "type": "test-demo",
+      "name": "test Demo",
+      "settings": {
+        "title": "Quick links"
+      }
     }
   },
   "order": [
     "main",
     "collection_list_naJa7F",
-    "image_banner_TxweQX"
+    "image_banner_TxweQX",
+    "test_demo_LCayyR"
   ]
 }
