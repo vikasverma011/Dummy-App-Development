@@ -109,7 +109,8 @@
       "type": "test-demo",
       "name": "test Demo",
       "settings": {
-        "title": "ddd"
+        "title": "ddd",
+        "description": "my <strong>inline</strong> <em>text</em>"
       }
     }
   },
